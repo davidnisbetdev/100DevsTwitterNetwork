@@ -109,7 +109,7 @@ Contributions are what make the open source community such an amazing place to b
 <h2 id="contact">Contact with me</h2>
 
 <div align="center">
- Built with ❤️ by @mpfdev, @dnbull, @noxyeah, @demiroar, @sk1pio, and @ComradeNizzy 👋🏽 Get in touch!  <br/><br/>
+ Built with ❤️ by @mpfdev, @dnbull, @noxyeah, @demiroar, @sk1pio, and @DavidNisbetDev 👋🏽 Get in touch!  <br/><br/>
 </div>
 
 
