@@ -18,11 +18,14 @@
       <div class="feed-content">
 
         <div class="profile-functions">
-          <form action="/dashboard/createPost" method="POST">
+          <form action="/dashboard/createPost" method="POST" enctype="multipart/form-data">
             <div class="form-group">
               <label for="newPost">New Tweet</label>
-              <textarea class="form-control mb-3" id="newPost" name="newPost" rows="3" spellcheck="false"></textarea>
-              <button type="submit" class="btn btn-primary btn-lg btn-block w-100">Add new tweet</button>
+              <textarea class="form-control my-2" id="newPost" name="newPost" rows="3" spellcheck="false"></textarea>
+              <input type="file" class="form-control my-2" name="file">
+
+              <button type="submit" class="btn btn-primary btn-lg btn-block w-100 mt-2">Add new tweet</button>
+
             </div>
           </form>
 
